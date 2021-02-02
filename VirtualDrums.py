@@ -1,7 +1,7 @@
 '''
 Project : Virtual Drums using OpenCV (Python)
 Author : Prathik Pugazhenthi
-
+MIT License
 This project use OpenCV to create a virtual drum set. It uses color detection in a region of interest
 and plays the corresponding drum beat wrt the speed of the sticks moved between co-ordinates which represents the intensity of the sound. the sticks can be of any color and there is no requirement of sticks to be of the same color but the sticks should be colored. after caliberating the sticks the frame would show a green line which denotes the start of the drum region below it. 
 
