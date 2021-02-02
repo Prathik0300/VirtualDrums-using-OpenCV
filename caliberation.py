@@ -1,3 +1,8 @@
+'''
+Project : VirtualDrums uisng OpenCV(in python)
+Author: Prathik Pugazhenthi
+MIT License
+'''
 import cv2 as cv
 import numpy as np
 
